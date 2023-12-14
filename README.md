@@ -15,7 +15,7 @@
     
 
 
-![Kainaosx GitHub stats](https://github-readme-stats.vercel.app/api?username=Kainan7&show_icons=true&theme=dracula) 
+![Kainaosx GitHub stats](https://github-readme-stats.vercel.app/api?username=Kainan7&show_icons=true&theme=dark) 
 
-![Kainaosx Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kainan7&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kainan7&layout=compact)
 
