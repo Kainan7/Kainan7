@@ -17,6 +17,6 @@
 
 ![Kainaosx GitHub stats](https://github-readme-stats.vercel.app/api?username=Kainan7&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kainan7&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kainan7&exclude_repo=github-readme-stats,Kainan7.github.io)
 
 
