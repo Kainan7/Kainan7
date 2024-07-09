@@ -1,5 +1,5 @@
 
-### Olá! Bem vindo(a) ao meu GitHub! 👋 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-kain%C3%A3-de-lima-dias-589100279/)
+### Olá! Bem vindo(a) ao meu GitHub! 👋 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kainã-lima-589100279)
 
 ## Um pouco sobre mim:
 <ul type="square"> <!--disc circle square-->
