@@ -4,7 +4,7 @@
 ## Um pouco sobre mim:
 <ul type="square"> <!--disc circle square-->
     <li>Meu nome é Victor Kainã, tenho 20 anos.</li>
-    <li>Sou estudante de Engenharia da Computação, 5° semestre na UNIFOR (Universidade de Fortaleza) </li>
+    <li>Sou estudante de Engenharia da Computação, 6° semestre na UNIFOR (Universidade de Fortaleza) </li>
     <li>Técnico em Informática pelo ensino integrado (Ensino Médio + Técnico) na <a href="https://www.instagram.com/edsonqueiroz_eeep/"> EEEP Edson Queiroz </a></li>
     <li>Amo <STRONG>Games 🎮, Saint Seiya 🌟, Tocar Guitarra 🎸</STRONG> e diversas outras obras da cultura pop.   </li>
 </ul>
